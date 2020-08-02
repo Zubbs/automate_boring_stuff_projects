@@ -1,1 +1,1 @@
-I am practicing exercises found in the Automate the Boring stuff Book. 
+I am practicing exercises found in the Automate the Boring Stuff book. 
